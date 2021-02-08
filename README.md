@@ -52,6 +52,7 @@ BP.1 - Cómo medirías que tan efectivo es el testeo tuyo o de tu equipo? Qué m
 ### Metodología de entrega
 - Crear un nuevo repo en tu GitHub personal y realiza el ejercicio ahí mismo
 - Una vez finalizado darle acceso a @gadots y @gonpombo8 para la revisión del mismo
+- Aclarar Nombre y Apellido en el readme del repositorio para una efectiva identificación del mismo
 
 ### Cosideraciones Finales 
 
