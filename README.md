@@ -33,7 +33,7 @@ A.6 - Consideras a algunos de los issues relevados previamente como BLOQUEANTE? 
 
 #### SECCIÓN B
 
-B.1 - Cuales serían los test cases que harías para una pantalla de login?
+B.1 - Cuales serían los test cases que harías para la siguiente pantalla de login?
 
 ![login](log-in-improvement.png)
 
