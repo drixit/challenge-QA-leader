@@ -18,6 +18,7 @@ A continuación se te presentarán 2 imágenes. Una será el diseño que el equi
 ![Implementación](DEV.png)
 
 En base a las imagenes enviadas te pedimos:
+
 A.1 - Relevar los issues correspondientes y reportarlos en el board de tu repositorio. Nos interesa ver como los cargas y describis el error a reportar. La idea es simular una situación de trabajo del día a día.
 
 A.2 - Realizar el reporte de los issues en inglés
