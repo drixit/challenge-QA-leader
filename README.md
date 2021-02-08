@@ -9,11 +9,11 @@ El presente ejercicio tiene una modalidad integradora en la que se busca entende
 
 A continuación se te presentarán 2 imágenes. Una será el diseño que el equipo de UX entregó a los desarrolladores y una segunda imagen en la cual se mostrará el diseño final implementado por el equipo de desarrollo.
 
-**DISEÑO INICIAL (UX TEAM)**
+**Diseño Inicial (UX TEAM)**
 
 ![Diseño inicial](DESIGN.png)
 
-**DISEÑO IMPLEMENTADO (DEV TEAM)**
+**Diseño Implementado (DEV TEAM)**
 
 ![Implementación](DEV.png)
 
